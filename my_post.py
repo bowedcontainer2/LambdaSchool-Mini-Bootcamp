@@ -1,7 +1,7 @@
 import requests
 
 my_info = {
-"email": "mpineda3247@gmail.com",
+"email": "myEmail@gmail.com",
 "lastname": "Pineda",
 "message": "I know its kinda late for this but I still want to try it!",
 "name": "Matthew"
